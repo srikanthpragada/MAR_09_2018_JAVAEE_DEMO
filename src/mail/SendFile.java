@@ -7,10 +7,9 @@ import javax.activation.*;
 public class SendFile {
 
 	public static void main(String[] args) {
-
-		String to = "james@java.com";
-		String from = "gavin@java.com";
-		String filename = "f:\\logo.jpg";
+		String to = "first@test.com";
+		String from = "second@test.com";
+		String filename = "e:\\classroom\\logo.jpg";
 
 		String body = "A file is attached to this message";
 		String subject = "Sending a file";
