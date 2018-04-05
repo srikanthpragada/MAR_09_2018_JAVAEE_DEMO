@@ -2,7 +2,6 @@ package json;
 
 import javax.json.Json;
 import javax.json.stream.JsonGenerator;
-
 import oracle.jdbc.rowset.OracleCachedRowSet;
 
 public class WriteJobsToJson {
